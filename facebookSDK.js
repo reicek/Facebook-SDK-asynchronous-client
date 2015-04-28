@@ -1,9 +1,10 @@
 "use strict";
 /**
- * Facebook SDK asynchronous client template
+ * Facebook SDK asynchronous client
  * 2015, by Cesar Anton Dorantes @reicek
  * for https://platzi.com/blog
- * demo https://googledrive.com/host/0B_RClkFMLkcpSzJKM0ZNcG53LU0/
+ * demo: https://googledrive.com/host/0B_RClkFMLkcpdlZfX0pJYjFaUjQ/
+ * Github: https://github.com/reicek/Facebook-SDK-asynchronous-client
  * This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
  **/
