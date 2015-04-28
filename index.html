@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="robots" content="noindex, nofollow">
+	<title>Platzi - Social Login Buttons</title>
+	<link href="css/style.css" rel="stylesheet"></link>
+</head>
+<body>
+	<header>
+		<p>Social Login Button demo</p>
+		<nav>
+			<div>
+				Facebook
+			</div>
+		</nav>
+	</header>
+	<section>
+		<article>
+			<fb:login-button 
+				appId="369802769880379" 
+				scope="public_profile,email" 
+				id="facebook-login-button">
+			</fb:login-button>
+			<div id="fbStatus">
+			</div>
+		</article>
+	</section>
+	<script src="js/facebookSDK.js"></script>
+</body>
+</html>
